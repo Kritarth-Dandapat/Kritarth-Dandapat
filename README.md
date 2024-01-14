@@ -37,6 +37,6 @@ I am a self-driven and highly motivated Front-End Developer with a robust founda
 
 ## Contact
 - **GitHub:** [Your GitHub Profile](https://github.com/your_username)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your_linkedin)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/kritarth-dandapat/)
 
 Feel free to explore my repositories and get in touch for collaboration or exciting projects!
