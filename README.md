@@ -1,10 +1,10 @@
-# Hi 👋, I'm Kritarth Dandapat
-
-## A Passionate Full Stack Developer and Computer Science Student Specializing in Deep Learning
+# Kritarth Dandapat - Portfolio
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kritarth-Dandapat&label=Profile%20views&color=0e75b6&style=flat" alt="Kritarth-Dandapat" /> </p>
+
+## About Me
 
 - 🔭 I’m currently developing **a Dental Health Mobile Application under Professor Wenyao Xu** at the University at Buffalo.
 - 🌱 I’m exploring **Deep Learning with PyTorch** and expanding my knowledge in this field.
@@ -12,56 +12,111 @@
 - 📫 You can reach me at: **kritarth@buffalo.edu** | **dkritarth@gmail.com**
 - ⚡ Fun fact: **I love visualizing algorithms and creating interactive tools.**
 
-### Connect with Me:
-<p>
-<a href="https://www.linkedin.com/in/kritarth-dandapat-53a35b1b/" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/512/linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
-<a href="https://github.com/Kritarth-Dandapat" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/512/github.png" alt="GitHub" height="40" width="40" /></a>
-<a href="https://kritarth.tech" target="blank"><img align="center" src="https://img.icons8.com/ios/50/domain.png" alt="Website" height="40" width="40" /></a>
-</p>
+## Education
 
-### Languages and Tools:
-<p>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/python-file-icon/python-file-icon-28.jpg" alt="Python" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/js-icon/js-icon-24.jpg" alt="JavaScript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/react_1353128.png" alt="React" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/node-js-icon/node-js-icon-8.jpg" alt="Node.js" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/no-sql-icon/no-sql-icon-12.jpg" alt="MongoDB" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/1216733.svg.svg" alt="HTML5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/badge-css-3-512.png" alt="CSS3" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> </a> 
-</p>
+- **University at Buffalo**  
+  Bachelor of Science in Computer Science, Minor in Statistics  
+  Aug 2023 - May 2026
 
-### GitHub Stats:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Kritarth-Dandapat&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kritarth-Dandapat&show_icons=true&locale=en&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kritarth-Dandapat&&theme=tokyonight)
+## Experience
 
-### Education
+- **Research Assistant at University at Buffalo**  
+  Jun 2024 - Present  
+  - Collaborated with Professor Wenyao Xu to develop the mobile front end and web application of a comprehensive dental health application using React Native/React.
+  - Implemented advanced features, including 3D intraoral scanning and reconstruction, health tracking, and real-time monitoring.
+  - Developed functionalities to visualize dental health progress, provide personalized recommendations, and enhance user experience.
+  - Optimized application performance, reducing load times by 30% and improving user satisfaction.
 
-**University at Buffalo Honors College**  
-Bachelor of Science in Computer Science (Expected Graduation: May 2027)  
-- Presidential Scholarship - $15,000 per annum  
-- GPA: 4.0
+- **Project Leader and Founding Member UBNSDC**  
+  Oct 2023 - Present  
+  - Facilitated teamwork in NSDC (National Student Data Corps) website co-development, promoting effective event planning and meeting coordination.
+  - Spearheaded the launch of the NSDC website, streamlining event planning and boosting team coordination.
 
-### Projects
+## Projects
 
-**OralScan - Dental Health Mobile Application**  
-Developing a comprehensive mobile app focusing on dental health, including intra-oral scanning, care & maintenance, disease diagnosis, and progression tracking.
+### OralScan/Heal Scan
+- Collaborated with Professor Wenyao Xu to develop the mobile front end and web application of a comprehensive dental health application using React Native/React.
+- Implemented advanced features, including 3D intraoral scanning and reconstruction, health tracking, and real-time monitoring.
+- Developed functionalities to visualize dental health progress, provide personalized recommendations, and enhance user experience.
+- Optimized application performance, reducing load times by 30% and improving user satisfaction.
 
-**Path Finding Visualizer using A* Algorithm**  
-Constructed an interactive pathfinding visualizer using Python and Pygame, demonstrating the A* search algorithm with a customizable grid-based interface.
+### [Human Emotion Detection](https://github.com/Kritarth-Dandapat/AI-Projects/blob/main/Human_emotions_Detection.ipynb)
+- Developed an emotion detection system using CNN, ResNet-34, and Vision Transformer (ViT) to classify human emotions from images.
+- **Technologies Used:**
+  - CNN from Scratch: Built a custom CNN for feature extraction.
+  - ResNet-34 Transfer Learning: Enhanced model performance with pre-trained ResNet-34.
+  - Vision Transformer (ViT): Applied ViT for capturing global image dependencies.
+- **Results:**
+  - Achieved 87.5% in emotion classification, demonstrating the effectiveness of combining different deep learning techniques.
+- **Future Work:**
+  - Explore additional data sources and real-time applications.
 
-**Wild Oasis - Hotel Management Software**  
-Developed a responsive hotel management software using React, Redux, Styled Components, and Supabase, featuring modern UI/UX design for optimal user experience.
+### [Path Finding Visualizer using A* Algorithm](https://github.com/Kritarth-Dandapat/Path-Finder--using-the-A--algorithm)
+- Constructed a Path Finding Visualizer with Python and Pygame, showcasing the A* search algorithm's implementation to facilitate interactive pathfinding visualization on a customizable grid-based interface.
+- Illustrated expertise in Python programming by developing a user-friendly graphical interface, highlighting skills in algorithmic problem-solving, GUI design, and responsive application development.
 
-**UB Hacking - Classifier Web App**  
-Co-developed [Classifier Web App](https://ubclassifier.web.app/) during a hackathon, focusing on back-end and database development with an intuitive front-end interface using ReactJS, MUI, and CSS.
+### [Wild Oasis - Hotel Management Software](https://github.com/Kritarth-Dandapat/the-wild-oasis)
+- Developed Hotel Management Software using React, Redux, Styled Components, and React Query.
+- Integrated Supabase for database management and authentication.
+- Implemented a modern, responsive design to enhance user experience.
+- Utilized Redux for efficient state handling.
+- Used React Query for real-time data fetching and synchronization.
 
-### Courses
+### UB Hacking - Classifier Web App
+- Co-developed Classifier (https://ubclassifier.web.app/) during a hackathon, spearheading back-end and database construction in 24 hours in a team of 4.
+- Contributed to crafting an intuitive partial front-end interface using ReactJS, MUI, and CSS and towards the backend development of the application.
 
+### [Movie Rating System (IMDb-like application)](https://github.com/Kritarth-Dandapat/Movies)
+- Leveraging React Native and powerful APIs, I'm creating a mobile app that empowers users to discover, rate, and review movies – like a pocket-sized IMDb!
+- **Features:**
+  - Seamless Movie Exploration: Find popular, upcoming, and critically-acclaimed movies with ease.
+  - In-Depth Movie Knowledge: Dive into detailed information for each film, including plot summaries, cast & crew listings, and trailers.
+  - Community-Driven Ratings & Reviews: Contribute your voice by rating movies and writing reviews, influencing the opinions of fellow movie enthusiasts. (User accounts in development)
+
+## Courses/Certifications
 - [Learn Python Programming Masterclass by Tim Buchalka](https://www.linkedin.com/pulse/learn-python-programming-2023-tim-buchalka/) (Completed)
 - [The Ultimate React Course 2023 by Jonas Schmedtmann](https://www.linkedin.com/pulse/ultimate-react-course-2023-jonas-schmedtmann/) (Completed)
 - [Node.js, Express, MongoDB & More by Jonas Schmedtmann](https://www.linkedin.com/pulse/nodejs-express-mongodb-more-complete-bootcamp-jonas-schmedtmann/) (Completed)
 - [PyTorch for Deep Learning and Machine Learning - freeCodeCamp.org](https://www.freecodecamp.org/learn/machine-learning-with-python/) (Currently in Progress)
+
+
+## Skills
+
+![Python](https://img.icons8.com/color/48/000000/python.png) Python
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
+![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
+![C/C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C/C++
+![Rust](https://img.icons8.com/color/48/000000/rust-programming-language.png) Rust
+![React](https://img.icons8.com/color/48/000000/react-native.png) React
+![React Native](https://img.icons8.com/color/48/000000/react-native.png) React Native
+![Django](https://img.icons8.com/color/48/000000/django.png) Django
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
+![Express](https://img.icons8.com/color/48/express-js.png) Express
+![Supabase](https://img.icons8.com/color/48/000000/supabase.png) Supabase
+![Firebase](https://img.icons8.com/color/48/000000/firebase.png) Firebase
+![Tailwind CSS](https://img.icons8.com/fluency/48/tailwind_css.png) Tailwind CSS
+![Figma](https://img.icons8.com/color/48/000000/figma.png) Figma
+![SQLite](https://img.icons8.com/color/48/000000/sql.png) SQLite
+![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png) PostgreSQL
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
+![Git/GitHub](https://img.icons8.com/color/48/000000/git.png) Git/GitHub
+![LaTeX](https://img.icons8.com/color/48/000000/latex.png) LaTeX
+![Linux](https://img.icons8.com/color/48/000000/linux.png) Linux
+![Pandas](https://img.icons8.com/color/48/000000/pandas.png) Pandas
+![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) TensorFlow
+
+## GitHub Stats:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Kritarth-Dandapat&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kritarth-Dandapat&show_icons=true&locale=en&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kritarth-Dandapat&&theme=tokyonight)
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/kritarthdandapat/)
+- [GitHub](https://github.com/Kritarth-Dandapat)
+- [Portfolio](https://kritarth.tech)
+
