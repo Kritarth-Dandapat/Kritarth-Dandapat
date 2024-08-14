@@ -39,6 +39,12 @@
 - [Node.js, Express, MongoDB & More by Jonas Schmedtmann](https://www.linkedin.com/pulse/nodejs-express-mongodb-more-complete-bootcamp-jonas-schmedtmann/) (Completed)
 - [PyTorch for Deep Learning and Machine Learning - freeCodeCamp.org](https://www.freecodecamp.org/learn/machine-learning-with-python/) (Currently in Progress)
 
+### GitHub Stats:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Kritarth-Dandapat&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kritarth-Dandapat&show_icons=true&locale=en&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kritarth-Dandapat&&theme=tokyonight)
+
+
 
 ## Skills
 
