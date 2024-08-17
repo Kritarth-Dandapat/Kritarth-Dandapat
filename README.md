@@ -12,38 +12,17 @@
 - 📫 You can reach me at: **kritarth@buffalo.edu** | **dkritarth@gmail.com**
 - ⚡ Fun fact: **I love visualizing algorithms and creating interactive tools.**
 
-## Education
+## Connect with Me
 
-- **University at Buffalo**  
-  Bachelor of Science in Computer Science, Minor in Statistics  
-  Aug 2023 - May 2026
+- [LinkedIn](https://www.linkedin.com/in/kritarthdandapat/)
+- [GitHub](https://github.com/Kritarth-Dandapat)
+- [Portfolio](https://kritarth.tech)
 
-## Experience
-
-- **Research Assistant at University at Buffalo**  
-  Jun 2024 - Present  
-  - Collaborated with Professor Wenyao Xu to develop the mobile front end and web application of a comprehensive dental health application using React Native/React.
-  - Implemented advanced features, including 3D intraoral scanning and reconstruction, health tracking, and real-time monitoring.
-  - Developed functionalities to visualize dental health progress, provide personalized recommendations, and enhance user experience.
-  - Optimized application performance, reducing load times by 30% and improving user satisfaction.
-
-- **Project Leader and Founding Member UBNSDC**  
-  Oct 2023 - Present  
-  - Facilitated teamwork in NSDC (National Student Data Corps) website co-development, promoting effective event planning and meeting coordination.
-  - Spearheaded the launch of the NSDC website, streamlining event planning and boosting team coordination.
-
-
-## Courses/Certifications
-- [Learn Python Programming Masterclass by Tim Buchalka](https://www.linkedin.com/pulse/learn-python-programming-2023-tim-buchalka/) (Completed)
-- [The Ultimate React Course 2023 by Jonas Schmedtmann](https://www.linkedin.com/pulse/ultimate-react-course-2023-jonas-schmedtmann/) (Completed)
-- [Node.js, Express, MongoDB & More by Jonas Schmedtmann](https://www.linkedin.com/pulse/nodejs-express-mongodb-more-complete-bootcamp-jonas-schmedtmann/) (Completed)
-- [PyTorch for Deep Learning and Machine Learning - freeCodeCamp.org](https://www.freecodecamp.org/learn/machine-learning-with-python/) (Currently in Progress)
 
 ### GitHub Stats:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Kritarth-Dandapat&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kritarth-Dandapat&show_icons=true&locale=en&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kritarth-Dandapat&&theme=tokyonight)
-
 
 
 ## Skills
@@ -74,9 +53,4 @@
 ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) Pandas
 ![TensorFlow](https://img.icons8.com/color/48/000000/tensorflow.png) TensorFlow
 
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/kritarthdandapat/)
-- [GitHub](https://github.com/Kritarth-Dandapat)
-- [Portfolio](https://kritarth.tech)
 
