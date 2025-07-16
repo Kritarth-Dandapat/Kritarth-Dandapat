@@ -1,7 +1,3 @@
-Here's a more concise yet still cool GitHub README for you, focusing on impact and key areas:
-
------
-
 # Kritarth Dandapat
 
 ## AI Developer & Research Assistant | Innovating at the Intersection of AI and Impact
