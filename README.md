@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=AI+Researcher+%7C+Computer+Vision+Specialist;Building+Symmetry-Aware+Graph+Neural+Networks;Developing+AI-Powered+Healthcare+Solutions;Aspiring+Ph.D.+Candidate)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0077B5&center=true&vCenter=true&width=800&lines=AI+Researcher+%7C+Computer+Vision+Specialist;Building+Symmetry-Aware+Graph+Neural+Networks;Developing+AI-Powered+Healthcare+Solutions;Aspiring+Ph.D.+Candidate)](https://git.io/typing-svg)
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kritarth-dandapat)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white)](https://kritarth-dandapat.github.io/)
